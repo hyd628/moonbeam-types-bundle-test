@@ -1,0 +1,18 @@
+{
+  "name": "moonbeam-types-bundle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^9.2.1",
+    "i": "^0.3.7",
+    "moonbeam-types-bundle": "file:moonbeam-types-bundle-2.0.8.tgz",
+    "npm": "^8.17.0"
+  }
+}
