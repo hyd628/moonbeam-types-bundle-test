@@ -1,4 +1,4 @@
-import { typesBundlePre900 } from "./node_modules/moonbeam-types-bundle/index.js";
+import { typesBundlePre900 } from "./node_modules/moonbeam-types-bundle/index.ts";
 import { ApiPromise, WsProvider } from "@polkadot/api";
 
 
